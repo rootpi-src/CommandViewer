@@ -1,0 +1,6 @@
+name: CommandViewer
+version: 1.2
+main: com.github.rootpi_src.commandviewer.Main
+api-version: 1.13
+authors: [ rootpi_src ]
+website: https://github.com/rootpi-src/CommandViewer/
